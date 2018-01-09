@@ -6,6 +6,7 @@
     <artifactId>ProjetoFinalParte2</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <!-- Criar um commit com configuração para empacotar código fonte e javadoc como jar -->
     <build>
         <plugins>
             <plugin>
