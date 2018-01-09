@@ -6,6 +6,7 @@ public class Suporte extends Funcionario {
         super(id, nome, salario, notaAvaliacao);
     }
 
+    @Override
     public double getAumentoSalario() {
         return this.getSalario() * (this.getNotaAvaliacao() * 0.05);
     }
