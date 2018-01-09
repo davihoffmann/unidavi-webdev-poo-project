@@ -27,6 +27,7 @@
         <project.report.outputEncoding>UTF-8</project.report.outputEncoding>
     </properties>
 
+    <!-- dependencias -->
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
